@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include "main.h"
+
 /**
  * main - prints the numbers 1 to 100
  * but for multiples of 3 prints z instead of the number
